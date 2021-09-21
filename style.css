@@ -1,0 +1,44 @@
+
+body{font-family: 'Poppins', sans-serif;
+    font-size: 16px;}
+.name-color{
+    color: goldenrod;
+    font-size: 32px;
+}
+
+h3{
+
+    font-weight: 400;
+    color: rgb(255, 44, 29);
+}
+.div-class{
+    margin: 10px;
+    padding: 10px;
+    width: 50%;
+}
+section{
+    display: flex;
+    padding: 20px;
+}
+.image img{
+    margin: 50px 20 px;
+    padding-left: 20px;
+    width: 80%;
+}
+.link-button{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    background-color:rgba(26, 191, 212, 0.884);
+    padding: 3px;
+    margin: 5px;
+    border-radius: 5px;
+    background-image: linear-gradient(rgb(189, 142, 137), rgb(35, 117, 150));
+    font-weight: 500;
+}
+.top-banner{
+    /* background-image: url(https://raw.githubusercontent.com/ProgrammingHero1/developer-portfolio/master/images/top-banner.png); */
+    background-image: url(images/background1.png);
+}
+.middle-banner{
+    background-image: url(images\cool-background.png);
+}
